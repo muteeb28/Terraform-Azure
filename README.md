@@ -9,7 +9,8 @@
 - **Challenges with the traditional approach**
 - **Terraform Workflow**
 - **Installing Terraform**
-- **Code Sample:** [topic1](./code/topic1)
+- **Code Sample:** [Topic 1](https://github.com/muteeb28/Terraform-Azure/tree/main/Topic-1)
+
 
 ### Topic 2: Terraform Provider
 - **Terraform Providers**
@@ -17,14 +18,14 @@
 - **Why version matters**
 - **Version constraints**
 - **Operators for versions**
-- **Code Sample:** [code/topic2](./code/topic2)
+- **Code Sample:** [Topic 2](./code/topic2)
 
 ### Topic 3: Resource Group and Storage Account
 - **Authentication and Authorization to Azure resources**
 - **Creating resource groups**
 - **Storage account management**
 - **Understanding dependencies**
-- **Code Sample:** [code/topic3](./code/topic3)
+- **Code Sample:** [Topic 3](./code/topic3)
 
 ### Topic 4: State File Management - Remote Backend
 - **How Terraform updates Infra**
@@ -32,7 +33,7 @@
 - **State file best practices**
 - **Remote backend setup**
 - **State management**
-- **Code Sample:** [code/topic4](./code/topic4)
+- **Code Sample:** [Topic 4](./code/topic4)
 
 ### Topic 5: Variables
 - **Input variables**
