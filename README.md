@@ -18,7 +18,7 @@
 - **Why version matters**
 - **Version constraints**
 - **Operators for versions**
-- **Code Sample:** [Topic 2](./code/topic2)
+- **Code Sample:** [Topic 2](https://github.com/muteeb28/Terraform-Azure/tree/main/Topic-2)
 
 ### Topic 3: Resource Group and Storage Account
 - **Authentication and Authorization to Azure resources**
