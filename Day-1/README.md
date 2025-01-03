@@ -51,7 +51,7 @@
 5. **Destroy:** Remove infrastructure.
 
 ---
-### Day 2 Task: Install Terraform
+###  Install Terraform for mac
 - **Install Instructions:** [Terraform Installation Guide](https://developer.hashicorp.com/terraform/install)
 - **Common Installation Error (macOS):**
   ```bash
@@ -68,4 +68,13 @@
   alias tf=terraform
   terraform -version
   ```
+### Terraform Installation (Windows):
+
+1. Choose operating system Windows
+2. Download AMD64 version.
+3. Extract the downloaded file to *C:* drive.
+4. Open Edit the system environment variables.
+5. Click on Environment Variables.
+6. Click New under System variables.
+7. Paste the path to the extracted Terraform folder and click OK.
 
